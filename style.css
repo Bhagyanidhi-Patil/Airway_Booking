@@ -1,0 +1,158 @@
+body{
+	background-image: url(airplane3.png);
+	background-size: cover;
+}
+
+#form{
+	background-color: #000;
+	height: 550px;
+	width: 750px;
+	margin: auto;
+	padding: 20px;
+	opacity: 0.5;
+}
+#form h3{
+	border-bottom: 2px solid;
+	width: 300px;
+	padding: 5px;
+}
+
+#input #input-group{
+	width: 300px;
+	margin: 5px;
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	background: transparent;
+	color: #fff;
+}
+
+#input2 #input-group{
+	width: 220px;
+	margin: 5px;
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	background: transparent;
+	color: #fff;
+}
+#input3 #input-group{
+	width: 50px;
+	margin: 5px;
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	background: transparent;
+	color: #fff;
+
+}
+
+#input4 #input-group{
+	width: 615px;
+	margin: 5px;
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+
+}
+
+#input5 #input-group{
+	border-bottom: 2px solid ;
+	width: 220px;
+	padding: 5px;
+}
+#input6 #input-group{
+	width: 300px;
+	margin: 5px;
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+}
+.btn1{
+  display: inline-block;
+  padding: 10px 10px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px #999;
+  margin: 7px;
+}
+.btn1:hover {background-color: #3e8e41}
+
+.btn1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.btn2{
+  display: inline-block;
+  padding: 10px 10px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px #999;
+  margin: 7px;
+}
+.btn2:hover {background-color: #3e8e41}
+
+.btn2:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+.text-center{
+	font-family: "sans-serif";
+	color: white;
+	font-variant-caps: all-petite-caps;
+
+}
+
+.text-white{
+	font-family: "sans-serif";
+	color: white;
+	font-variant-caps: all-petite-caps;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
